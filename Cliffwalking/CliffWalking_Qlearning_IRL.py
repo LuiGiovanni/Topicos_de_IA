@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
 
-@author: angel4ayala@gmail.com
-"""
 import numpy as np
 import matplotlib.pyplot as plt
 from CliffWalking import CliffWalking
